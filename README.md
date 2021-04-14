@@ -1,4 +1,5 @@
-# faux_twitter
+# Twitter Engine
+
 This is an application that mimics all of twitter features
 
 The code is written in FSharp and uses F# actors.
